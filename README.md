@@ -28,7 +28,6 @@ I'm a **Software & Data Engineer** with a passion for building robust, scalable 
 
 ### 🔥 GitHub Stats
 
-![Marcus's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcusJMyrick&show_icons=true&theme=dracula)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MarcusJMyrick&theme=dark)](https://git.io/streak-stats)
 
 ---
